@@ -1,5 +1,7 @@
 # Dog Breeds
 
+![](breeds.jpg)
+
 Dataset obtained from [DogTime](https://dogtime.com/dog-breeds). There are 349 observations (breeds) and 36 features. Dataset are available in different formats:
 
 - JSON
